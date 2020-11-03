@@ -1,4 +1,12 @@
 .box {
     display: flex;
     padding: 10px;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
  }
+ .header{
+     background-color: aqua;
+ }
+
+ 
